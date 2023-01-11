@@ -1,6 +1,6 @@
 # Serverless Custom Plugin Example
 
-Simple [serverless]() custom plugin example in [Typescript]().
+Simple [serverless](https://www.serverless.com/) custom plugin example in [Typescript](https://www.typescriptlang.org/).
 
 ## Installation
 
