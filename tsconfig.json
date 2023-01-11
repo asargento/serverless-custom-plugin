@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowUnreachableCode": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "preserveConstEnums": true,
+    "strict": true,
+    "target": "es2020",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/common/types/*"]
+    },
+    "lib": ["es2020"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "exclude": ["node_modules"]
+}
