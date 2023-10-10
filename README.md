@@ -4,7 +4,7 @@ Simple [serverless](https://www.serverless.com/) custom plugin example in [Types
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com) to install this module.
 
 ```bash
 npm install && npm build
